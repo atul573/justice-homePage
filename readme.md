@@ -5,7 +5,8 @@
 In this project i have leany basic alignment of the html elements using a combination of positing and flex box it took me around an Hour to complete this project.
 
 
-Check Out Live [Justice HomePage](https://justice-homepage.netlify.app/)
+### Check Out Live
+ [Justice HomePage](https://justice-homepage.netlify.app/)
 
 ### ScreenShot
 
